@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-r">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+</head>
+
+<body>
+  <main>
+    <form>
+        <header><a href="https://kenzie.com.br/" target="_blank"><img src="Kenzie _ Logotipo.png" alt="Logo Kenzie" height="60" width="150"></a></header>
+        
+         <p>
+          <p><label for="nome">Nome</label></p>
+          <input id="nome" name="nome" type="text" placeholder="Digite seu nome aqui..." required="true">
+         </p>
+         
+         <p>
+          <p><label for="email">Email</label></p>
+          <input id="email" name="E-mail" type="text" placeholder="Digite seu email aqui..." required="true">
+         </p>
+         
+         <p>
+          <p><label for="texto">Descrição</label></p>
+          <textarea id="texto" placeholder="Fale mais sobre você aqui..." cols="20" rows="10"></textarea>
+         </p>
+         
+         <p>
+          <label for="escolher modulos">Módulos</label>
+            <select required id="escolher modulos" name="Módulo">
+             <option>Selecione o Módulo</option>
+             <option value="módulo 1">Módulo 1</option>
+             <option value="módulo 2">Módulo 2</option>
+             <option value="módulo 3">Módulo 3</option>
+             <option value="módulo 4">Módulo 4</option>
+             <option value="módulo 5">Módulo 5</option>
+             <option value="módulo 6">Módulo 6</option>
+            </select>
+         </p>
+         
+         <p>
+          <p><label for="senha">Senha</label></p>
+          <input id="senha" type="password" placeholder="Digite sua senha aqui..." required="true">
+         </p>
+         
+        
+          <p><label for="confirmar">Confirmar senha</label></p>
+          <input id="confirmar" type="password" placeholder="Digite sua senha novamente aqui" required="true">
+         </p>
+        <p>Deseja receber novidades em seu e-mail?</p>
+        
+        
+          <label for="sim">Sim</label>
+          <input id="sim" type="radio" name="seleção" required="true">
+          <label for="não">Não</label>
+          <input id="não" type="radio" name="seleção" required="true">
+        
+          <p><button type="submit">Cadastrar</button></p>
+        </main>    
+  </form>
+</body>
+</html>
