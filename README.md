@@ -1,7 +1,7 @@
 ### Olá! Me chamo Matheus Barros Rodrigues.
 
 - 🔭 Em busca da primeira oportunidade como desenvolvedor web full stack
-- 🌱 Estudando mongo db e docker
+- 🌱 Estudando Next.js e node.js
 - 📫 Contate-me no email: mat43214@gmail.com 
 - 😄 Pronome: ele/dele
 
