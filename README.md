@@ -26,7 +26,7 @@
   <img align="center" alt="Python" heigth="95" width="115" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="Django" heigth="90" width="110" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img align="center" alt="Json Web Token" heigth="170" width="190" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"/>
-  <img align="center" alt="Prisma" heigth="120" width="100" src="https://img.shields.io/badge/Prisma-008080?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img align="center" alt="Prisma" heigth="130" width="110" src="https://img.shields.io/badge/Prisma-008080?style=for-the-badge&logo=prisma&logoColor=white"/>
 </div>
 <h1>Links</h1>
 <div>
