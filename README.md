@@ -1,7 +1,7 @@
 ### Olá! Me chamo Matheus Barros Rodrigues.
 
 - 🔭 Em busca da primeira oportunidade como desenvolvedor web full stack
-- 🌱 Estudando Next, React, Node, typescript, javascript vanilla, Bootstrap.
+- 🌱 Estudando Next, React, Node, typescript, javascript vanilla e Tailwind.
 - 📫 Contate-me no email: mat43214@gmail.com 
 - 😄 Pronome: ele/dele
 
