@@ -2,8 +2,6 @@
 
 ###
 
-<p align="left">- 🔭 Em busca da primeira oportunidade como desenvolvedor web full stack<br>- 🌱 Estudando php, java, aws, python, docker e Nosql.<br>- 📫 Contate-me no email: mat43214@gmail.com</p>
-
 ###
 
 <h2 align="left">Status</h2>
